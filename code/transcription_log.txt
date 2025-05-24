@@ -1,0 +1,154 @@
+nohup: ignoring input
+Loading Whisper model...
+
+Processing L29 files...
+Transcribing media1.m4a... (1/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media10.m4a... (2/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media11.m4a... (3/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media12.m4a... (4/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media13.m4a... (5/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media14.m4a... (6/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media15.m4a... (7/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media16.m4a... (8/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media17.m4a... (9/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media18.m4a... (10/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media19.m4a... (11/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media2.m4a... (12/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media20.m4a... (13/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media21.m4a... (14/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media22.m4a... (15/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media23.m4a... (16/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media24.m4a... (17/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media25.m4a... (18/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media26.m4a... (19/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media27.m4a... (20/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media28.m4a... (21/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media29.m4a... (22/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media3.m4a... (23/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media30.m4a... (24/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media4.m4a... (25/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media5.m4a... (26/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media6.m4a... (27/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media7.m4a... (28/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media8.m4a... (29/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media9.m4a... (30/30)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+✅ All transcripts saved to ../output/l29-media-all.txt
+
+Processing L30 files...
+Transcribing media1.m4a... (1/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media10.m4a... (2/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media11.m4a... (3/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media12.m4a... (4/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media13.m4a... (5/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media14.m4a... (6/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media15.m4a... (7/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media16.m4a... (8/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media17.m4a... (9/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media18.m4a... (10/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media2.m4a... (11/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media3.m4a... (12/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media4.m4a... (13/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media5.m4a... (14/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media6.m4a... (15/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media7.m4a... (16/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media8.m4a... (17/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+Transcribing media9.m4a... (18/18)
+/openhands/poetry/openhands-ai-5O4_aCHf-py3.12/lib/python3.12/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+✅ All transcripts saved to ../output/l30-media-all.txt
+
+✅ All transcription tasks completed!
